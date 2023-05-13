@@ -1,0 +1,59 @@
+body{
+  margin:0;
+  border:0;
+  padding:0;
+}
+
+.nav-bar{
+  height:84px;
+  width: auto;
+  padding:15px;
+  background-color:black;
+}
+
+.nav-bar ul{
+  list-style-type:none;
+}
+
+.nav-bar li{
+  display:inline;
+  padding:10px;
+  float:center;
+}
+
+.nav-bar ul li a{
+  text-decoration:none;
+  color:white;
+}
+
+
+
+.bg{
+  height:550px;
+  width: auto;
+  background-size: cover;
+  background-repeat:no-repeat;
+  background-image:url("https://i.dell.com/sites/csimages/Banner_Imagery/all/aw_dcr_campaign_fy22_homepage_mod5_07.jpg");
+}
+
+.text{
+  color:white;
+  float: left;
+  background:none;
+  height:510px;
+  width:50%;
+  padding:20px;
+}
+
+p{
+  font-size:20px;
+}
+
+button{
+  padding:20px;
+  font-size:15px;
+}
+
+button a{
+  color:black;
+}
